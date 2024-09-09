@@ -1,0 +1,113 @@
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojAssemblyReference.cache
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmDangNhap.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmChuongTrinh.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.ThanhToan.resources
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\Capnhatphong.CapNhatPhong.resources
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmChuongTrinh.resources
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmDangNhap.resources
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.ThanhToan.resources
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\mscorlib.dll
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normidna.nlp
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfc.nlp
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfd.nlp
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfkc.nlp
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfkd.nlp
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\WindowsFormsApplication1.formkh.resources
+C:\Users\HOME\Desktop\New folder (5)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\tracuukh.khDV.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\mscorlib.dll
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normidna.nlp
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfc.nlp
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfd.nlp
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfkc.nlp
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\normnfkd.nlp
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\Capnhatphong.CapNhatPhong.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmChuongTrinh.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmDangNhap.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\tracuukh.khDV.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.ThanhToan.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\WinFormsApp1.LapPhieuDatPhong.resources
+C:\Users\HOME\Desktop\New folder (6)\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\Khtracuu.FormTC.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.AssemblyReference.cache
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\Capnhatphong.CapNhatPhong.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmChuongTrinh.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmDangNhap.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.DatPhong.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\tracuukh.khDV.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\WinFormsApp1.LapPhieuDatPhong.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.ThanhToan.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\Khtracuu.FormTC.resources
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\New folder (2)\New folder (10)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\mscorlib.dll
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\normidna.nlp
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\normnfc.nlp
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\normnfd.nlp
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\normnfkc.nlp
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\bin\Debug\normnfkd.nlp
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\Capnhatphong.CapNhatPhong.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmChuongTrinh.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmDangNhap.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.DatPhong.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\tracuukh.khDV.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\WinFormsApp1.LapPhieuDatPhong.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.ThanhToan.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\Khtracuu.FormTC.resources
+C:\Users\HOME\Desktop\New folder (12)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\mscorlib.dll
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\normidna.nlp
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\normnfc.nlp
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\normnfd.nlp
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\normnfkc.nlp
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\bin\Debug\normnfkd.nlp
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\Capnhatphong.CapNhatPhong.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmChuongTrinh.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.frmDangNhap.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.DatPhong.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\tracuukh.khDV.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\WinFormsApp1.LapPhieuDatPhong.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.ThanhToan.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\Khtracuu.FormTC.resources
+C:\Users\HOME\Desktop\New folder (13)\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
